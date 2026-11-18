@@ -6,7 +6,7 @@ I build tools for research, planning, and coordination. My focus is making AI-as
 
 ## Selected work
 
-- **[Osprey](https://colton-g.com/work/osprey)** — A team prototype for coordinating man-overboard response using camera sightings and a shared incident view. Our team was a Code Metal Forge hackathon finalist; the portfolio page shows the demonstration and its limits.
+- **[Osprey](https://colton-g.com/work/osprey)** — A team prototype for coordinating man-overboard response using camera sightings and a shared incident view. Our team was a Code Metal Forge hackathon finalist; the portfolio page shows the demonstration and its limits. [Code and recordings](https://github.com/colt11044/osprey-hackathon).
 - **[Pollroom](https://pollroom-workshop.vercel.app/)** — A live polling app with Google owner sign-in, anonymous participant links, live results, and permanent poll closure. Built with Next.js, PostgreSQL, and transactional vote handling. [Try the poll](https://pollroom-workshop.vercel.app/p/4b47faa7-4320-4a24-8591-284d26b57e45) · [Code](https://github.com/colt11044/pollroom-app).
 - **[Event Brief](https://colton-g.com/work/event-brief)** — A source-linked meeting preparation workflow. The portfolio walkthrough uses sample data to show how research, identity uncertainty, and coverage appear in a brief. [Code](https://github.com/colt11044/event-brief).
 - **[Plan Review](https://colton-g.com/demos#maker-checker)** — An example of reviewing a proposed plan, recording feedback, and keeping approval separate from execution. [Code](https://github.com/colt11044/plan-review).
